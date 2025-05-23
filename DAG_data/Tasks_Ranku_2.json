@@ -1,0 +1,67 @@
+{
+    "description": "\u4efb\u52a1\u4f18\u5148\u7ea7\u8ba1\u7b97\u7ed3\u679c (RankU)",
+    "sorted_by_rank": [
+        {
+            "rank": 1,
+            "task_id": 0,
+            "rank_value": 91.0
+        },
+        {
+            "rank": 2,
+            "task_id": 1,
+            "rank_value": 72.0
+        },
+        {
+            "rank": 3,
+            "task_id": 2,
+            "rank_value": 51.0
+        },
+        {
+            "rank": 4,
+            "task_id": 4,
+            "rank_value": 44.0
+        },
+        {
+            "rank": 5,
+            "task_id": 3,
+            "rank_value": 35.0
+        },
+        {
+            "rank": 6,
+            "task_id": 5,
+            "rank_value": 33.5
+        },
+        {
+            "rank": 7,
+            "task_id": 7,
+            "rank_value": 28.5
+        },
+        {
+            "rank": 8,
+            "task_id": 8,
+            "rank_value": 15.0
+        },
+        {
+            "rank": 9,
+            "task_id": 6,
+            "rank_value": 14.5
+        },
+        {
+            "rank": 10,
+            "task_id": 9,
+            "rank_value": 11.0
+        }
+    ],
+    "schedule_order": [
+        0,
+        1,
+        2,
+        4,
+        3,
+        5,
+        7,
+        8,
+        6,
+        9
+    ]
+}
